@@ -5,9 +5,11 @@ Pac-Man's instructions are implied in the top centre of the screen. He is either
 The user's name is displayed in the top left of the screen via input in the Option Pane and some return methods used in tandem.
 A special character reveals itself once the mouse is dragged over Pac-Man.
 
-Known bugs/problems:  None
+# Known bugs/problems
 
-References:
+None
+
+# References
 
 1.Radians and Arcs in Processing. YouTube. [ONLINE] Available at:
   https://www.youtube.com/watch?v=40mzKoR1zII - YouTube video, a brief overview of using Radians and Arcs in Processing
