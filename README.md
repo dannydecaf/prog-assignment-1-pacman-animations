@@ -1,9 +1,5 @@
-# prog-assignment-1-pacman-animations
-/*
-Name :  Dan Coffey
-Student Number:  08559350
+# Brief description of the animation achieved
 
-Brief description of the animation achieved:
 Pac-Man inspired animation. A ferociously hungry Pac-Man is situated in a tunnel, and is being fed a colourful food source when the left mouse button is being pressed.
 Pac-Man's instructions are implied in the top centre of the screen. He is either anxious to be fed, or registering his delight at being fed.
 The user's name is displayed in the top left of the screen via input in the Option Pane and some return methods used in tandem.
