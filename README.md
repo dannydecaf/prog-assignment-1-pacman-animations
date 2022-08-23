@@ -26,5 +26,3 @@ None
 4.substring(). Processing. [ONLINE] Available at :
   https://processing.org/reference/String_substring_.html - overview on the substring() method in Processing
   [Accessed 20 February 2021]
-  
-*/
