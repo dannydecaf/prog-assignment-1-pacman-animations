@@ -14,13 +14,17 @@ None
 1.Radians and Arcs in Processing. YouTube. [ONLINE] Available at:
   https://www.youtube.com/watch?v=40mzKoR1zII - YouTube video, a brief overview of using Radians and Arcs in Processing
   [Accessed 12 February 2021]
+  
 2.radians(). Processing. [ONLINE] Available at :
   https://processing.org/reference/radians_.html - overview on the radians() method in Processing
   [Accessed 13 February 2021]
+  
 3.arc(). Processing. [ONLINE] Available at : 
   https://processing.org/reference/arc_.html - overview on the arc() method in Processing
   [Accessed 13 February 2021]
+  
 4.substring(). Processing. [ONLINE] Available at :
   https://processing.org/reference/String_substring_.html - overview on the substring() method in Processing
   [Accessed 20 February 2021]
+  
 */
